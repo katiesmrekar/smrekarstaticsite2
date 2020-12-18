@@ -1,0 +1,3 @@
+define(function () {
+return ["ksbackground.html@@@Background@@@About me My name is Katie Smrekar. I grew up in Lakeville, Minnesota \u2014 a city 30 miles south of the cities. I am a senior at the University of Minnesota - Twin Cities studying Technical Writing and...","ksdln.html@@@Digital literacy narrative@@@Digital literacy history Growing up, my family always owned a clunky computer located in our computer room. I can&apos;t say for sure, but I can only assume I started using it around the same time I...","ksprojects.html@@@Projects@@@Digital literacy narrative 1 The first project of the semester was to create a website using any technology or program that describes our digital literacy narrative throughout the years. I chose to..."];
+});
